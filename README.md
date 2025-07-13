@@ -5,7 +5,9 @@ Cite this paper: K. Alam, M. Fahad Monir, M. Junayed Hossain, M. Shorif Uddin an
 
 or
 
-Alam, K., Fahad Monir, M., Junayed Hossain, M., Shorif Uddin, M., & Habib, Md. T. (2025). Adaptive Defense: Zero-Day Attack Detection in NIDS With Deep Reinforcement Learning. IEEE Access, 13, 116345–116361. https://doi.org/10.1109/access.2025.3585445 (APA Format)
+Alam, K., Fahad Monir, M., Junayed Hossain, M., Shorif Uddin, M., & Habib, Md. T. (2025). Adaptive Defense: Zero-Day Attack Detection in NIDS With Deep Reinforcement Learning. IEEE Access, 13, 116345–116361. https://doi.org/10.1109/access.2025.3585445 (APA Format).
+
+keywords: Training;Network intrusion detection;Security;Testing;Deep reinforcement learning;Data models;Computer security;Adaptation models;Long short term memory;Network security;Zero-day attack detection;deep reinforcement learning;cybersecurity;network intrusion detection systems;internet;unseen attack generalization;digital infrastructure;industrialization;governance;SDG 9;SDG 16
 
 
 
